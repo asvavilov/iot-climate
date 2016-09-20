@@ -5,6 +5,8 @@ with print to LCD and publish to thingspeak.com.
 
 ![photo](https://raw.github.com/asvavilov/iot-climate/master/20160918_182919.jpg)
 
+![photo](https://raw.github.com/asvavilov/iot-climate/master/thingspeak-screenshot.png)
+
 # Parts
 
 - NodeMCU ESP8266 v0.9

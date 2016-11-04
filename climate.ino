@@ -36,7 +36,7 @@ WiFiClient wifiClient;
 
 /*
   dht_data:
-  0 - hudimity
+  0 - humidity
   1 - temperature
   2 - heat index
 */
